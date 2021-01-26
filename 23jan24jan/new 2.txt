@@ -1,0 +1,10 @@
+<html>
+<head>new data</head>
+<body>
+<form action="/new" method='POST'>
+name:<input type="text" name="name: id="name">
+age:<input type="age" name="age" id="age">
+<input type="Button" values="button">
+</form>
+</body>
+</html>

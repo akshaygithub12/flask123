@@ -1,0 +1,4 @@
+def main():
+name=raw_input("enter name of person :")
+age=input("enter the age")
+address=input("enter the address")

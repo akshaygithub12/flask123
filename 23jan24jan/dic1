@@ -1,0 +1,6 @@
+phone={"john":987656567,
+"john":98675672561,
+"jill":9864326262
+}
+phone["john"]=938273443
+print(phone)

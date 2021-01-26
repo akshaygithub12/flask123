@@ -1,0 +1,90 @@
+\\dic+++++++++++++
+a=input("enter the key")
+x=input("enter my name")
+y=input("asa")
+d={"23":"asda","asdsd":"23","dfsf":"35","a":"akshay","ty":"akshahgasa",x:y}
+print(d)
+if a in d:
+	del d[a]
+	print(d)
+else:
+	print("key isnt found")
+print("updated dictionanry")
+print(d)
+	
+\\\swap
+a=34
+b=67
+a=a+b
+b=a-b
+a=a-b
+print(a)
+print(b)
+
+
+A="AKSHAY"
+print(A)
+v=0
+for i in A:
+	v=v+1
+print(v)
+
+
+////////grads.....
+a=input("enter the first marks")
+b=input("enter the first marks")
+c=input("enter the first marks")
+d=input("enter the first marks")
+e=input("enter the first marks")
+f=input("enter the first marks")
+
+avg=(a+b+c+d+e+f)/6
+print(avg)
+
+if(avg>=70):
+	print("first class")
+elif(avg<=50):
+	print("second class")
+else:
+	print("pass class")
+
+
+
+#############################
+
+a=input("enetr the a")
+b=input("enter the b")
+phone={"john":987656567,
+"jack":98675672561,
+"jill":9864326262,
+a:b
+}
+print(phone)
+phone["john"]=938273443
+print(phone)
+
+del phone['jill']
+print(phone)
+
+if "jack" in phone:
+	print("yes exist")
+
+
+###############################3###
+for i in range(6):
+	if(i==3 or i==6):
+	    continue
+	print(i)
+print("\n")
+
+555555555555555555555555555555555555555555555555555555
+
+
+daa="aksajhsah.exe"
+print(daa)
+print(daa[2])
+print(daa[-1])
+print(len(daa))
+print(daa[0:8])
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&7
